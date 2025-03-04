@@ -1,27 +1,96 @@
-<h1 align="center">Hi 👋, I'm Vipul Kumar</h1>
-<h3 align="center">A passionate Coder,Mern Stack developer from India</h3>
+<h1 align="center">🚀 Hello, World! I'm Vipul Kumar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vip-coder1&label=Profile%20views&color=0e75b6&style=flat" alt="vip-coder1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vip-coder1" alt="vip-coder1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vip_coder" target="blank"><img src="https://img.shields.io/twitter/follow/vip_coder?logo=twitter&style=for-the-badge" alt="vip_coder" /></a> </p>
-
-- 📫 How to reach me **vipulmth1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vip_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vip_coder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vip-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vip-coder" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vip-coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vip-coder/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/vipulzii8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vipulzii8/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=435&lines=🔥Passionate+MERN+Stack+Developer;🤝Open+Source+Enthusiast;🎯Tech+Explorer;📚Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vip-coder1&show_icons=true&locale=en&layout=compact" alt="vip-coder1" /></p>
+## 🌟 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vip-coder1&show_icons=true&locale=en" alt="vip-coder1" /></p>
+Hi! My name is **Vipul Kumar**, and I'm passionate about software development, open-source contributions, and continuous learning.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vip-coder1&" alt="vip-coder1" /></p>
+- 🔥 **MERN Stack Developer**
+- 🤝 **Open-Source Enthusiast** | Always eager to collaborate
+- 🎯 **Tech Explorer** | Passionate about problem-solving & new technologies
+- 📚 **Lifelong Learner** | Always expanding my knowledge
+
+---
+
+## 💻 My Journey So Far
+
+- 🚀 **Exploring GitHub & Open Source**
+- 👨‍💻 **Building Projects & Learning New Tech**
+- 🔍 **Diving into Full-Stack Development**
+- 🛠 **Constantly improving my coding skills**
+
+---
+
+## 🎯 Goals
+
+- Contribute to meaningful **open-source projects**
+- Master **MERN stack** and other modern frameworks
+- Build and deploy **scalable applications**
+- Network with **like-minded developers**
+
+---
+
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,postgresql,tailwind,bootstrap,git,github,linux,c,cpp,java,python" />
+</p>
+
+---
+
+## 📫 Get in Touch
+
+<p align="center">
+  <a href="https://linkedin.com/in/vip-coder">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/vip_coder">
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://github.com/vip-coder1">
+    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:vipulmth1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🏆 Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/vip-coder" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/vipulzii8" target="_blank">
+    <img src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks" alt="GFG" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vip-coder1&theme=apprentice" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vip-coder1&theme=apprentice" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vip-coder1&theme=apprentice" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vip-coder1&theme=apprentice" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vip-coder1&theme=apprentice&utcOffset=8" alt="Productive Time" />
+</p>
+
+---
+
+⭐️ **Let's build something amazing together!** 🚀
