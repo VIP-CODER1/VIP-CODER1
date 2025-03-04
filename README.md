@@ -1,4 +1,4 @@
-<h1 align="center">🚀✩░▒▓▆▅▃▂▁𝐇𝐞𝐥𝐥𝐨, 𝐖𝐨𝐫𝐥𝐝! 𝐈'𝐦 𝐕𝐢𝐩𝐮𝐥 𝐊𝐮𝐦𝐚𝐫▁▂▃▅▆▓▒░✩</h1>
+<h1 align="center">🚀✌𝓗𝓮𝓵𝓵𝓸, 𝓦𝓸𝓻𝓵𝓭! 𝓘'𝓶 𝓥𝓲𝓹𝓾𝓵 𝓚𝓾𝓶𝓪𝓻✌</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=435&lines=🔥P̳̿͟͞a̳̿͟͞s̳̿͟͞s̳̿͟͞i̳̿͟͞o̳̿͟͞n̳̿͟͞a̳̿͟͞t̳̿͟͞e̳̿͟͞+M̳̿͟͞E̳̿͟͞R̳̿͟͞N̳̿͟͞+S̳̿͟͞t̳̿͟͞a̳̿͟͞c̳̿͟͞k̳̿͟͞+D̳̿͟͞e̳̿͟͞v̳̿͟͞e̳̿͟͞l̳̿͟͞o̳̿͟͞p̳̿͟͞e̳̿͟͞r̳̿͟͞🔥;🤝🅾🅿🅴🅽+🆂🅾🆄🆁🅲🅴+🅴🅽🆃🅷🆄🆂🅸🅰🆂🆃🤝;✌🎯𝓣𝓮𝓬𝓱+𝓔𝔁𝓹𝓵𝓸𝓻𝓮𝓻🎯✌;📚L̳̿͟͞i̳̿͟͞f̳̿͟͞e̳̿͟͞l̳̿͟͞o̳̿͟͞n̳̿͟͞g̳̿͟͞+L̳̿͟͞e̳̿͟͞a̳̿͟͞r̳̿͟͞n̳̿͟͞e̳̿͟͞r̳̿͟͞📚;" alt="Typing SVG" />
