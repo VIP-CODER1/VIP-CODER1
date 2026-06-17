@@ -25,7 +25,7 @@
 
 Hi! My name is **Vipul Kumar**, and I'm passionate about software development, open-source contributions, and continuous learning.
 
-- 🔥 **MERN Stack Developer**
+- 🔥 **Full Stack Developer**
 - 🤝 **Open-Source Enthusiast** | Always eager to collaborate
 - 🎯 **Tech Explorer** | Passionate about problem-solving & new technologies
 - 📚 **Lifelong Learner** | Always expanding my knowledge
