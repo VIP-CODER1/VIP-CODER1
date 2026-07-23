@@ -26,6 +26,20 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 
 ---
 
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vip-coder1&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vip-coder1&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vip-coder1&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
 # 🚀 About Me
 
 - 🎓 B.Tech in Computer Science from **IIIT Manipur**
@@ -99,32 +113,6 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 
 ---
 
-# 💼 Experience
-
-## 💻 Software Development Engineer Intern — Refold AI
-
-- Built scalable backend services and REST APIs
-- ERP Integrations with enterprise platforms
-- Performance optimization and production debugging
-
----
-
-## 💻 Software Development Engineer Intern — Patrol
-
-- Developed modern React dashboards
-- Backend APIs with Node.js
-- PostgreSQL integration
-
----
-
-## 💻 Full Stack Developer Intern — M-Core
-
-- MERN Stack Development
-- Authentication & Authorization
-- REST API Development
-
----
-
 # 🚀 Featured Projects
 
 ## 🤖 Cortex AI
@@ -176,19 +164,7 @@ React • Node.js • Express • MongoDB
 
 ---
 
-# 📈 GitHub Analytics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vip-coder1&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vip-coder1&theme=github-dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vip-coder1&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 # 📊 GitHub Summary
 
