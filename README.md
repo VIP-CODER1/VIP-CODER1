@@ -119,9 +119,7 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 
 AI-powered multi-agent development platform.
 
-**Tech Stack**
-
-FastAPI • Next.js • PostgreSQL • Docker • Supabase • NATS • AI Agents
+**Tech Stack** : FastAPI • Next.js • PostgreSQL • Docker • Supabase • NATS • AI Agents
 
 ---
 
@@ -129,9 +127,7 @@ FastAPI • Next.js • PostgreSQL • Docker • Supabase • NATS • AI Agent
 
 AI Workflow Automation Platform.
 
-**Tech Stack**
-
-Next.js • Prisma • PostgreSQL • Puppeteer • Stripe
+**Tech Stack** :Next.js • Prisma • PostgreSQL • Puppeteer • Stripe
 
 ---
 
@@ -139,21 +135,11 @@ Next.js • Prisma • PostgreSQL • Puppeteer • Stripe
 
 AI Research Assistant with semantic search.
 
-**Tech Stack**
-
-FastAPI • React • Gemini API • FAISS • Hugging Face
+**Tech Stack** : FastAPI • React • Gemini API • FAISS • Hugging Face
 
 ---
 
-## 🏡 GharBazzar
 
-Modern Real Estate Platform.
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB
-
----
 
 # 🏆 Competitive Programming
 
