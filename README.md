@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vipul Kumar
 
-### Software Engineer • Backend Developer • AI Systems Engineer
+### 💻Software Engineer 🚀Full Stack Developer 🤖AI Systems Engineer
 
 <p>
 Building scalable backend systems, AI-powered applications, and cloud-native software with a focus on performance, distributed systems, and developer experience.
@@ -12,7 +12,15 @@ Building scalable backend systems, AI-powered applications, and cloud-native sof
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Vipul%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Vipul%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <strong>💻 Software Engineer</strong> •
+  <strong>🚀 Full Stack Developer</strong> •
+  <strong>🤖 AI Systems Engineer</strong>
+</p>
 
 </div>
 
